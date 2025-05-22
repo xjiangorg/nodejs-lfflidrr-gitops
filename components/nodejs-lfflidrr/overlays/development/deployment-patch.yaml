@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/nodejs-lfflidrr:23bc8a137702added9ac6bf62d3bd49cc24a2715@sha256:3c76e34804e750064eeab5994c4676cc92148598b37236aaecd15ddb9ed094c3
+        - image: quay.io/quay_xjiang/nodejs-lfflidrr:d1a6af506d375a4b53f7fa05fdfdca5f05973594@sha256:62ab801ea55d0b25ffd6aef997fbb235b79ed20343daa35507d97b56126d761c
           name: container-image
